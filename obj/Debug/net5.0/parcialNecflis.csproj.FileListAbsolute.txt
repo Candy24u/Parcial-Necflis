@@ -1,0 +1,16 @@
+C:\Users\Jazmi\Documents\parcialNecflis\bin\Debug\net5.0\parcialNecflis.exe
+C:\Users\Jazmi\Documents\parcialNecflis\bin\Debug\net5.0\parcialNecflis.deps.json
+C:\Users\Jazmi\Documents\parcialNecflis\bin\Debug\net5.0\parcialNecflis.runtimeconfig.json
+C:\Users\Jazmi\Documents\parcialNecflis\bin\Debug\net5.0\parcialNecflis.runtimeconfig.dev.json
+C:\Users\Jazmi\Documents\parcialNecflis\bin\Debug\net5.0\parcialNecflis.dll
+C:\Users\Jazmi\Documents\parcialNecflis\bin\Debug\net5.0\ref\parcialNecflis.dll
+C:\Users\Jazmi\Documents\parcialNecflis\bin\Debug\net5.0\parcialNecflis.pdb
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\parcialNecflis.csprojAssemblyReference.cache
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\parcialNecflis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\parcialNecflis.AssemblyInfoInputs.cache
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\parcialNecflis.AssemblyInfo.cs
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\parcialNecflis.csproj.CoreCompileInputs.cache
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\parcialNecflis.dll
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\ref\parcialNecflis.dll
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\parcialNecflis.pdb
+C:\Users\Jazmi\Documents\parcialNecflis\obj\Debug\net5.0\parcialNecflis.genruntimeconfig.cache
